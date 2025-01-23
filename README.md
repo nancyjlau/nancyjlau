@@ -3,5 +3,3 @@
 
 [//]: < ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nancyjlau&show_icons=true&count_private=true&theme=radical) >
 [//]: <![my stats](https://github-readme-stats.vercel.app/api?username=nancyjlau&show_icons=true&count_private=true&theme=radical&icon_color=6392D)>
-### Profile Views
-![:nancyjlau](https://count.chiya.dev/get/@:nancyjlau?theme=asoul)
